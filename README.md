@@ -21,9 +21,11 @@ And I think that if you are here, what you are interested in is to know what I d
 ![image](https://user-images.githubusercontent.com/84352348/220210501-e13f4c94-ff80-426b-a33f-270709dc5c0a.png)
 
 - At school, I code mainly in ` C ` (and soon in C++)
+
       [The repo of my school projects](https://github.com/thebrisly/42-Cursus-Piscine)
       
-- I'm also writing a complete gitbook with [Simon](https://github.com/Laendrun/). The purpose of this gitbook is to explain our reasoning from A to Z for each of the projects done at school 42. It's a kind of project report. It is open to everyone and aims to help students stuck in a problem.  
+- I'm also writing a complete gitbook with [Simon](https://github.com/Laendrun/). The purpose of this gitbook is to explain our reasoning from A to Z for each of the projects done at school 42. It's a kind of project report. It is open to everyone and aims to help students stuck in a problem.
+
       [42 Complete Guide](https://42-cursus.gitbook.io/guide/)
 
 - I am learning ` javascript ` at home and its famous library too aesthetic ✨ ` three.js ` ✨. Because I think it's fun to create nice websites 
