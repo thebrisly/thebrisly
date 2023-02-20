@@ -20,8 +20,6 @@ And I think that if you are here, what you are interested in is to know what I d
 
 ### I am currently learning code at 42 Lausanne and having fun with small personal projects at home
 
-![image](https://user-images.githubusercontent.com/84352348/220210876-3d2801b4-fa7c-4229-bcf8-bed8f682c9b4.png)
-
 - At school, I code mainly in ` C ` (and soon in C++)
 
      [The repo of my school projects](https://github.com/thebrisly/42-Cursus-Piscine)
