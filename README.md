@@ -1,6 +1,6 @@
 ## Hey i'm Laura 💁🏽‍♀️
 
-#### ` Who tf is Laura ? `
+### _Who tf is Laura ?_
 
 ## Someone a bit too excited and curious about life sometimes. 
 
