@@ -2,7 +2,7 @@
 
 #### _Who tf is Laura ?_
 
-## Someone a bit too excited and curious about life sometimes. 
+## Someone a bit too excited and curious about life 
 
 - 🏋🏽 A big sportswoman & fitness coach 
 - 👩‍🎓 An economics student (@ University) & IT student (@ 42 Lausanne)
