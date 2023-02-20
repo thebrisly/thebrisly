@@ -31,8 +31,6 @@ And I think that if you are here, what you are interested in is to know what I d
 
      [42 Complete Guide](https://42-cursus.gitbook.io/guide/)
 
-------------------------------------------------------
-
 - I am learning ` javascript ` at home and its famous library too aesthetic ✨ ` three.js ` ✨. Because I think it's fun to create nice websites 
       - And obvisouly ` html & css `
 - And less important: I have mandates in marketing, and more particularly in SEO. So i'm in touch with php, html, txt files, linking and crawling.
