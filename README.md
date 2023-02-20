@@ -18,6 +18,10 @@ And so many other things that I'll stop here, otherwise you'll think I'm a compu
 
 And I think that if you are here, what you are interested in is to know what I do in code. Well. **Sometimes I don't even know what I'm doing.** I cry when I get segmentation faults and bus errors. But I'm always happy to go over it, for sure. Plus my computer is waterproof. 
 
+**************************************************************************
+**************************************************************************
+
+
 ### I am currently learning code at 42 Lausanne and having fun with small personal projects at home
 
 - At school, I code mainly in ` C ` (and soon in C++)
