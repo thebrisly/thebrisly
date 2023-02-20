@@ -1,3 +1,5 @@
+![github-header-image](https://user-images.githubusercontent.com/84352348/220209134-3a9f2f38-d93f-4a98-bb44-64bda22c7ada.png)
+
 ## Hey i'm Laura 💁🏽‍♀️
 
 #### _Who tf is Laura ?_
