@@ -43,9 +43,9 @@ And I think that if you are here, what you are interested in is to know what I d
 
 <div align="center" style="text-align:center">
   <a href="laura.fabbiano.gomez@hotmail.com">
-	<img align="center" src="imgs/email.png" alt="Mail logo" height="30" width="30">
+	<img src="imgs/email.png" alt="Mail logo" height="30" width="30">
   </a>
   <a href="(https://www.linkedin.com/in/laura-fabbiano/)" target="blank">
-	<img align="center" src="imgs/linkedin.png" alt="Linkedin logo" height="30" width="30">
+	<img src="imgs/linkedin.png" alt="Linkedin logo" height="30" width="30">
   </a>
 </div>
