@@ -2,7 +2,7 @@
 
 #### _Who tf is Laura ?_
 
-## Someone a bit too excited and curious about life 
+### Someone a bit too excited and curious about life 
 
 - 🏋🏽 A big sportswoman & fitness coach 
 - 👩‍🎓 An economics student (@ University) & IT student (@ 42 Lausanne)
@@ -31,8 +31,21 @@ And I think that if you are here, what you are interested in is to know what I d
 
      [42 Complete Guide](https://42-cursus.gitbook.io/guide/)
 
-- I am learning ` javascript ` at home and its famous library too aesthetic ✨ ` three.js ` ✨. Because I think it's fun to create nice websites 
+- I am learning ` javascript ` at home and its famous library ✨ ` three.js ` ✨. Because I think it's fun to create nice websites 
       - And obvisouly ` html & css `
 - And less important: I have mandates in marketing, and more particularly in SEO. So i'm in touch with php, html, txt files, linking and crawling.
 
+#### Some stats (bc it's aesthetic)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebrisly&layout=compact&theme=dark)
+
+### ** How to reach me**
+
+<div align="center" style="text-align:center">
+  <a href="laura.fabbiano.gomez@hotmail.com">
+	<img align="center" src="imgs/email.png" alt="Mail logo" height="30" width="30">
+  </a>
+  <a href="(https://www.linkedin.com/in/laura-fabbiano/)" target="blank">
+	<img align="center" src="imgs/linkedin.png" alt="Linkedin logo" height="30" width="30">
+  </a>
+</div>
