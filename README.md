@@ -14,7 +14,7 @@ And so many other things that I'll stop here, otherwise you'll think I'm a compu
 
 
 
-### > And as if I wasn't bored enough, I decided to start this wonderful adventure of coding.
+### >And as if I wasn't bored enough, I decided to start this wonderful adventure of coding.
 
 And I think that if you are here, what you are interested in is to know what I do in code. Well. **Sometimes I don't even know what I'm doing.** I cry when I get segmentation faults and bus errors. But I'm always happy to go over it, for sure. Plus my computer is waterproof. 
 
