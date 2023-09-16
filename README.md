@@ -5,10 +5,10 @@
 ### Someone a bit too excited and curious about life 
 
 - 🏋🏽 A big sportswoman & fitness coach 
-- 👩‍🎓 An economics student (@ University) & IT student (@ 42 Lausanne)
+- 👩‍🎓 An economics & computer science student (@ University) & programming student (@ 42 Lausanne)
 - 🤖 Passionate about new technologies (cryptos, AI)
-- 🗺️ A big traveler (24 countries) & explorer (currently preparing to cross Spain on foot solo)
-- 🥇 Fan of big challenges and pushing myself beyond my limits 
+- 🗺️ A big traveler (24 countries) & explorer (crossed Spain on foot solo)
+- 🥇 Fan of big challenges and pushing myself beyond my limits (actually training for a Marathon and a 100km run)
 
 And so many other things that I'll stop here, otherwise you'll think I'm a computer _(or maybe I am? I'll leave the doubt)_. 
 
